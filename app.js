@@ -1,6 +1,9 @@
 
 
-const API_URL = "http://localhost:3000/creatures";
+const isLocalDev = ["localhost", "127.0.0.1"].includes(window.location.hostname);
+const API_URL = isLocalDev
+  ? "http://localhost:3000/creatures"
+  : "creatures.json";
 
 const creatureGrid  = document.getElementById("creatureGrid");
 const loadingState  = document.getElementById("loadingState");
