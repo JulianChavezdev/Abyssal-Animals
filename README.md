@@ -84,7 +84,7 @@ https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v.../your-image.jpg
 
 ## Deployment
 
-**Live demo:** _[Add your Vercel URL here after deployment]_
+**Live demo:** (https://abyssal-animals.vercel.app/)
 
 To deploy on Vercel:
 1. Push the repo to GitHub
@@ -93,16 +93,8 @@ To deploy on Vercel:
 4. Deploy 🚀
 
 > Note: JSON Server is a local dev dependency. For production, replace the `API_URL` in `app.js` with a hosted API or inline the data.
+![HERO](https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779457864/00a9dfd1-2dca-46bd-bec6-820d9a0761df.png)
+> ![Cards](https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779457883/d97b459a-180c-47a2-8c81-9c52213148fc.png)
 
----
 
-## Evaluation Criteria Coverage
 
-| Criterion | Implementation |
-|---|---|
-| Visual design & creativity (35%) | Custom dark ocean aesthetic, bioluminescent glow effects, bubble animation, editorial typography |
-| Bootstrap + customisation (20%) | Bootstrap `.card` as base; fully reskinned via CSS variables and custom classes |
-| JavaScript & JSON Server (20%) | `async/await` fetch, dynamic DOM rendering, category filter, error/loading states |
-| Code organisation (10%) | Modular functions, camelCase throughout, no logic duplication |
-| GitHub, Vercel & best practices (15%) | All code in English, clean commits, Vercel deployment |
-# Abyssal-Animals
