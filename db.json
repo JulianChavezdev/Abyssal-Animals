@@ -1,0 +1,124 @@
+{
+  "creatures": [
+    {
+      "id": 1,
+      "name": "Anglerfish",
+      "scientificName": "Melanocetus johnsonii",
+      "depth": "200–2,000 m",
+      "category": "Predator",
+      "bioluminescent": true,
+      "description": "Famous for its glowing lure dangling before toothy jaws. Females dwarf males, which fuse parasitically to share her bloodstream.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456733/download_do5h6s.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vampire Squid",
+      "scientificName": "Vampyroteuthis infernalis",
+      "depth": "600–1,200 m",
+      "category": "Cephalopod",
+      "bioluminescent": true,
+      "description": "Neither true squid nor octopus, it turns its cape inside out when threatened, revealing spiny cirri and photophores along its arms.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456767/59704_p4ggrd.avif"
+    },
+    {
+      "id": 3,
+      "name": "Giant Isopod",
+      "scientificName": "Bathynomus giganteus",
+      "depth": "170–2,140 m",
+      "category": "Crustacean",
+      "bioluminescent": false,
+      "description": "A deep-sea cousin of the pill bug, growing to the size of a football. It scavenges whale falls and can fast for years between meals.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456787/240_F_365511731_9A3yJMLsVA09RhR86DC1AU0n3vNBKQwK_ovyhsc.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Comb Jelly",
+      "scientificName": "Beroe forskalii",
+      "depth": "Surface–2,000 m",
+      "category": "Gelatinous",
+      "bioluminescent": true,
+      "description": "Rows of cilia refract light into rainbow pulses as it swims. Unlike jellyfish, it hunts other jellies with a gaping mouth.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456803/1_eorzk0.webp"
+    },
+    {
+      "id": 5,
+      "name": "Barreleye Fish",
+      "scientificName": "Macropinna microstoma",
+      "depth": "600–800 m",
+      "category": "Fish",
+      "bioluminescent": false,
+      "description": "Its transparent, fluid-filled head shields upward-facing tubular eyes. It steals prey from siphonophores without being stung.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456823/fish-blue-background-pacific-barreleye-1683x1080-animals-fish-hd-art-wallpaper-preview_pwwgzb.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Portuguese Man o' War",
+      "scientificName": "Physalia physalis",
+      "depth": "Surface",
+      "category": "Colonial Organism",
+      "bioluminescent": false,
+      "description": "Not one animal but a colony: a gas-filled float, feeding polyps, and stinging tentacles that can stretch 30 meters below the surface.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456839/carl-august-wingardh-manowar-copy_fsee9b.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Giant Squid",
+      "scientificName": "Architeuthis dux",
+      "depth": "300–1,000 m",
+      "category": "Cephalopod",
+      "bioluminescent": false,
+      "description": "The largest invertebrate on Earth, with eyes the size of dinner plates. Elusive until a live specimen was filmed in 2004 off Japan.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456849/wp5242646_tps0y4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Dragonfish",
+      "scientificName": "Malacosteus niger",
+      "depth": "200–1,000 m",
+      "category": "Predator",
+      "bioluminescent": true,
+      "description": "Produces red bioluminescence invisible to most prey. Its jaws unhinge to swallow animals half its own body length.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456861/360_F_1845528955_4BVncnZGnBLf2KyUuiUYJvZbzJnWzvUs_enjisl.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sea Angel",
+      "scientificName": "Clione limacina",
+      "depth": "0–500 m",
+      "category": "Gelatinous",
+      "bioluminescent": false,
+      "description": "A translucent, wing-flapping pteropod that hunts shelled sea butterflies. In polar waters its body glows faintly pink.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456872/download_q1fmo5.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hatchetfish",
+      "scientificName": "Argyropelecus aculeatus",
+      "depth": "200–1,400 m",
+      "category": "Fish",
+      "bioluminescent": true,
+      "description": "Silver-sided body with ventral photophores that erase its silhouette from predators below — a strategy called counter-illumination.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456898/hatchetfish_gx2bj4.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Yeti Crab",
+      "scientificName": "Kiwa hirsuta",
+      "depth": "2,200–2,600 m",
+      "category": "Crustacean",
+      "bioluminescent": false,
+      "description": "Discovered near hydrothermal vents in 2005, its arms are covered in filamentous bacteria it may cultivate for food or detoxification.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456912/yeti-crab-near-hydrothermal-vent-deep-sea-ecosystem-yeti-crab-huddles-near-hydrothermal_1343445-1183_z4lmxv.avif"
+    },
+    {
+      "id": 12,
+      "name": "Siphonophore",
+      "scientificName": "Praya dubia",
+      "depth": "Surface–3,000 m",
+      "category": "Colonial Organism",
+      "bioluminescent": true,
+      "description": "A chain of specialized clones — some sting, some digest, some swim — that together form one of the longest animals on Earth.",
+      "image": "https://res.cloudinary.com/dhwnmdv0k/image/upload/v1779456927/absurd-seacritter-ft_pzrda8.webp"
+    }
+  ]
+}
